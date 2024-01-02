@@ -15,7 +15,7 @@ from configured targets at given intervals, evaluates rule expressions,
 displays the results, and can trigger alerts when specified conditions are observed.
 
 The features that distinguish Prometheus from other metrics and monitoring systems are:
-
+11
 - A **multi-dimensional** data model (time series defined by metric name and set of key/value dimensions)
 - PromQL, a **powerful and flexible query language** to leverage this dimensionality
 - No dependency on distributed storage; **single server nodes are autonomous**
